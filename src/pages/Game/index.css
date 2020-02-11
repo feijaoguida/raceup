@@ -1,0 +1,11 @@
+div#content {
+  width: 100%;
+  max-width: 700px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: azure;
+  border: 1px black;
+}
